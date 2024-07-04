@@ -15,33 +15,57 @@ katsys_einsatzmittel;einsatzmittel_original
 ...
 
 ## Ergebnis Parameter in Alarmdaten ##
+
 ### einsatzmittel ###
+
 FL Musterstadt 30/1
+
 FF Musterstadt
+
 FL Musterhausen Land 1/6
+
 FL Musterstadt 40/1
+
 FL Musterstadt 41/1
 
 ### einsatzmittel_formatiert ###
+
 🚒 FL Musterstadt 30/1
+
 →
+
 🏠 FF Musterstadt
+
 FL Musterhausen Land 1/6
+
 🚒 FL Musterstadt 40/1
+
 → Gruppe (Takt. Einheit, Dispo)
+
 🚒 FL Musterstadt 41/1
+
 → Pressluftatmer (Gerät + Maske)
 
 ### einsatzmittel_kurz	###
+
 FL Musterstadt 30/1
+
 FF Musterstadt
+
 FL Musterhausen Land 1/6
+
 FL Musterstadt 40/1
+
 FL Musterstadt 41/1
 
 ### einsatzmittel_mit_dispoinfo ###
+
 FL Musterstadt 30/1 ()
+
 FF Musterstadt
+
 FL Musterhausen Land 1/6
+
 FL Musterstadt 40/1 (Gruppe (Takt. Einheit, Dispo))
+
 FL Musterstadt 41/1 (Pressluftatmer (Gerät + Maske))
