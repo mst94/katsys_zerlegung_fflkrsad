@@ -9,6 +9,7 @@ FE2-Zerlegung für die Katsys-Schnittstelle des Landkreises Schwandorf für die 
 
 ## Alarmeingang Mapping ##
 Die Einsatzmittel müssen wie folgt gemapped werden:
+
 ...
 katsys_einsatzmittel;einsatzmittel_original
 ...
