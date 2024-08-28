@@ -30,19 +30,19 @@ FL Musterstadt 41/1
 
 ### einsatzmittel_formatiert ###
 
-🚒 FL Musterstadt 30/1
+FL Musterstadt 30/1
 
 →
 
-🏠 FF Musterstadt
+FF Musterstadt
 
 FL Musterhausen Land 1/6
 
-🚒 FL Musterstadt 40/1
+FL Musterstadt 40/1
 
 → Gruppe (Takt. Einheit, Dispo)
 
-🚒 FL Musterstadt 41/1
+FL Musterstadt 41/1
 
 → Pressluftatmer (Gerät + Maske)
 
